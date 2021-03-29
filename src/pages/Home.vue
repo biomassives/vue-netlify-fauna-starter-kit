@@ -2,8 +2,8 @@
   <main class="home space">
     <img
       id="logo"
-      src="https://user-images.githubusercontent.com/18376481/78156268-78aed080-7436-11ea-9da7-57d83ec5ec8a.png"
-      alt="logos of Vue, Netlify and Fauna"
+      src="https://avatars.githubusercontent.com/u/72341945?s=400&u=88c5890a3732870a4e2fbc8b6fb420910197cdf3&v=4"
+      alt="myPeacewater Link personal branching database research system"
     />
     <h1 style="text-align:center">Peacewater information tree tool</h1>
     <h2>ecocommunity@protonmail.com</h2>
@@ -20,7 +20,8 @@
 
     <div>
       <p>
-       Using Faunadb and Netlify for free 😎
+       Thanks to
+               <a href="https://faunadb.com" title"fauna-subscribeble-database">Faunadb</a> and <a href="https://netlify.com" title="netlify build system ci-cd">Netlify</a> 😎
       </p>
 
       <p>
