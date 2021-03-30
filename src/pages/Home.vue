@@ -21,7 +21,7 @@
     <div>
       <p>
        Thanks to
-               <a href="https://faunadb.com" title"fauna-subscribeble-database">Faunadb</a> and <a href="https://netlify.com" title="netlify build system ci-cd">Netlify</a> 😎
+               <a href="https://faunadb.com" title="fauna-subscribeble-database">Faunadb</a> and <a href="https://netlify.com" title="netlify build system ci-cd">Netlify</a> 😎
       </p>
 
       <p>
