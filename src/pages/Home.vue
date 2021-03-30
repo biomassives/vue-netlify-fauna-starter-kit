@@ -9,13 +9,11 @@
     <h2>ecocommunity@protonmail.com</h2>
     <ul>
       <li>
-        <a href="https://sharaj2.sg-host.com/forum"
-        >Peacewater project planning forum</a
-        >
+        <a href="https://sharaj2.sg-host.com/forum">Peacewater project planning forum</a>
+      </li>
       <li>
-        <a href="https://scdhub.org/forum"
-         >Searchable Database</a
-         >
+        <a href="https://scdhub.org/forum" title="search pescewater link">Searchable Database</a>
+      </li>
     </ul>
 
     <div>
