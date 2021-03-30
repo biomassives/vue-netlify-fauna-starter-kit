@@ -26,9 +26,7 @@
 
       <p>
         
-        <a href="https://github.com/chiubaca/vue-netlify-fauna-starter-kit"
-          >source code</a
-        >
+        <a href="https://github.com/chiubaca/vue-netlify-fauna-starter-kit">source code</a>
  
       </p>
     </div>
